@@ -1,12 +1,11 @@
-
 import './App.css';
-import { Button } from 'react-bootstrap';
+import Prepara from './Prepara';
+import Jogo from './Jogo';
+import Resultado from './Resultado';
 
 function App() {
   return (
-    <div className="App">
-    
-    </div>
+    <Prepara />
   );
 }
 
